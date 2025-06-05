@@ -115,7 +115,7 @@ src/
 - React 18
 - MongoDB & Mongoose
 - bcrypt (password hashing)
-- Modern CSS (dark theme)
+- Modern CSS 
 
 ---
 
